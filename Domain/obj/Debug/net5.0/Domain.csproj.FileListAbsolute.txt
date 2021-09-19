@@ -1,0 +1,12 @@
+C:\code\matc\itdev162\Brenden-Hunter\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\code\matc\itdev162\Brenden-Hunter\Domain\bin\Debug\net5.0\Domain.dll
+C:\code\matc\itdev162\Brenden-Hunter\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\code\matc\itdev162\Brenden-Hunter\Domain\bin\Debug\net5.0\Domain.pdb
+C:\code\matc\itdev162\Brenden-Hunter\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\code\matc\itdev162\Brenden-Hunter\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\matc\itdev162\Brenden-Hunter\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\code\matc\itdev162\Brenden-Hunter\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\code\matc\itdev162\Brenden-Hunter\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\code\matc\itdev162\Brenden-Hunter\Domain\obj\Debug\net5.0\Domain.dll
+C:\code\matc\itdev162\Brenden-Hunter\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\code\matc\itdev162\Brenden-Hunter\Domain\obj\Debug\net5.0\Domain.pdb
