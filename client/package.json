@@ -7,7 +7,11 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "@types/jest": "^26.0.24",
+<<<<<<< HEAD
     "@types/node": "^12.20.29",
+=======
+    "@types/node": "^12.20.28",
+>>>>>>> 1f27f06582abe9bd5e4cfe77af508031ba40714b
     "@types/react": "^17.0.29",
     "@types/react-dom": "^17.0.9",
     "axios": "^0.23.0",
