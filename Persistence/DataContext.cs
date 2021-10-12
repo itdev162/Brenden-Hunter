@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Domain;
 namespace Persistence
 {
-public class DataContext: DbContext
+public class DataContext : DbContext
     {
         
         public DbSet<Value> Values { get; set; }
@@ -15,5 +15,9 @@ public class DataContext: DbContext
         {
 
         }
+        public DataContext(){
+
+        }
         
+}
 }
