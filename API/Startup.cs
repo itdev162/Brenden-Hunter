@@ -41,14 +41,9 @@ namespace API
                         .AllowAnyMethod();
                 });
             });
-<<<<<<< HEAD
 
         
         
-=======
-                
-            
->>>>>>> 1f27f06582abe9bd5e4cfe77af508031ba40714b
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<DataContext>(opt =>
             {
